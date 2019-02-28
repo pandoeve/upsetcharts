@@ -1,0 +1,12 @@
+"file": "D:\DOCUMENTS PHD THESIS\UpSet\Matrix_0_1_SNP_Traits.csv",
+	"name": "SNP-Trait",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "SNP" },
+
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 37 }
+	]
