@@ -5,11 +5,9 @@
 	"separator": "\t",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "SNP" },
-
+			{ "type": "id", "index": 0, "name": "SNP" },
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 57 }
 	]
-
 }
