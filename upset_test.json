@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/pandoeve/upsetcharts/master/Matrix_0_1_SNP_Traits_2.csv",
+	"file": "https://raw.githubusercontent.com/pandoeve/upsetcharts/master/matrix_test.csv",
 	"name": "SNP-trait",
 	"header": 0,
 	"separator": "\t",
