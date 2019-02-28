@@ -2,6 +2,4 @@
 	"name": "SNP-Trait",
 	"header": 0,
 	"separator": "\t",
-	"skip": 0,
-	"meta": [{"type": "id", "index": 0, "name": "SNP/TRAIT"},],
-	"sets": [{"format": "binary", "start": 1, "end": 37}]
+	"skip": 0
